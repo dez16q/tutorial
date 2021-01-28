@@ -1,0 +1,15 @@
+button {}
+video{}
+ul {
+    display: flex;
+    list-style: none;
+}
+ul li {
+    margin-right: 25px;
+}
+video{
+
+}
+h2 {
+    font-size: 24px;
+}
